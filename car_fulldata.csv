@@ -1,0 +1,5 @@
+,car_name,maintainance_cost,maintainance_cost_w,price,price_w,safety_features,safety_features_w,fuel_economy,fuel_economy_w,insurance,insurance_w,resale_value,resale_value_w
+0,Certified 2017 Ford Escape SE,313,15,16248,70,"['Brake Assist', 'Stability Control']",35,24,90,1152,56,11208,15
+1,Certified 2017 Honda CR-V EX,456,25,23700,100,"['Brake Assist', 'Stability Control']",35,27,100,1349,64,17579,25
+2,Used 2017 Hyundai Santa Fe SE,265,15,13791,60,"['Brake Assist', 'Stability Control']",35,21,80,1229,56,15765,20
+3,Certified 2017 Toyota RAV4 LE,410,20,21277,90,"['Brake Assist', 'Stability Control']",35,25,90,1221,56,15456,20
